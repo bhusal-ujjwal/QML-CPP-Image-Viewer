@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/drawer.png</file>
+        <file>images/menu.png</file>
+        <file>images/pictures/pic1.jpg</file>
+        <file>images/pictures/pic2.jpg</file>
+        <file>images/pictures/pic3.jpg</file>
+        <file>QuitDialog.qml</file>
+        <file>ImageSelector.qml</file>
+        <file>Photo.qml</file>
+    </qresource>
+</RCC>
